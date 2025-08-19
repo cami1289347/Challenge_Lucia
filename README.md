@@ -8,4 +8,4 @@ Cómo Usar este Repositorio
 - Abre el archivo TelecomX_LATAM (1).ipynb en tu entorno de desarrollo (Jupyter, VS Code, Google Colab).
 - Ejecuta las celdas secuencialmente para replicar el análisis completo.
 
-  # Lucia Moran.
+  Lucia Moran.
