@@ -4,7 +4,7 @@ Este repositorio contiene un análisis exhaustivo del problema de la evasión de
 El análisis se basa en un conjunto de datos que incluye información detallada sobre los clientes, sus servicios, tipo de contrato, gastos mensuales y totales, y su estado de evasión. El archivo de datos original (TelecomX_Data.json) fue procesado y limpiado para su análisis.
 
 Cómo Usar este Repositorio
-- Clona el repositorio: git clone [URL_DEL_REPOSITORIO]
+- Clona el repositorio
 - Abre el archivo TelecomX_LATAM (1).ipynb en tu entorno de desarrollo (Jupyter, VS Code, Google Colab).
 - Ejecuta las celdas secuencialmente para replicar el análisis completo.
 
